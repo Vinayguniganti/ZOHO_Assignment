@@ -1,4 +1,4 @@
-# Flask and HTML Assignment
+# ZOHO Assignment
 
 This project implements a simple web application using Flask, a Python web framework, for user input form validation, data storage in a SQLite database, and data retrieval to display it in a tabular format using HTML.
 
