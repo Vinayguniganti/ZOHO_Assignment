@@ -12,15 +12,13 @@ This project implements a simple web application using Flask, a Python web frame
 
 1. Install Python 3.x from [Python official website](https://www.python.org/).
 2. Install Flask using pip:
-
 3. No separate installation is required for SQLite as it comes bundled with Python.
 
 ## Usage
 
 1. Clone this repository:
 2. Navigate to the project directory:
-3. Run the Flask application:
-
+3. Run the Flask application (python main.py):
 4. Access the application in your web browser at [http://localhost:5000/](http://localhost:5000/).
 
 ## Functionality
